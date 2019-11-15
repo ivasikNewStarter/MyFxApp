@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyFxApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyFxApp_jar</output-path>
+    <root id="archive" name="MyFxApp.jar">
+      <element id="module-output" name="MyFxApp" />
+    </root>
+  </artifact>
+</component>
